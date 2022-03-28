@@ -1,0 +1,12 @@
+11
+Angel,m,27,1
+Leandro,m,23,1
+Alejandra,f,23,1
+Luis,m,36,2
+Karen,F,25,3
+Aymee,F,18,2
+Genesis,M,23,1
+Cristian,m,19,3
+Moises,m,35,4
+Aymee,f,41,2
+Maria,f,15,1
